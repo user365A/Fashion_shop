@@ -1,0 +1,10 @@
+trang cart: trang vỏ hàng
+trang cartegory_sale: trang sản phẩm sale
+trang cartegory: trang sản phẩm không sale
+trang header: thanh menu
+trang footer: thanh footer
+trang home: trang chủ
+trang login: trang đăng nhập
+trang payment: trang thanh toán
+trang product_details: trang sản phẩm chi tiết
+trang registration: trang đăng ký
